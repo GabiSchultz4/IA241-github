@@ -23,7 +23,3 @@ print(my_name*3)
 print("hello world. this is my first python string.".split("."))
 #6.10
 #message='Tom's id is 123'
-#7
-git add -all
-git commit -m "myLab2.py file"
-git push
