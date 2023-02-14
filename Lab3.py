@@ -38,3 +38,4 @@ print(game_board)
 #3.9
 game_board[1][1]=1
 print(game_board)
+
