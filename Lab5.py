@@ -32,3 +32,4 @@ elif age>=65:
     print('person is an elder')
 else:
     print('this person is an adult')
+
